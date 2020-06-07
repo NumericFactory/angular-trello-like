@@ -1,3 +1,5 @@
 # angular-trello-like
+Une app type Trello
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-trello-like)
+# Cours ANGULAR pour l'école EPITA
+# Formateur : Frederic LOSSIGNOL
